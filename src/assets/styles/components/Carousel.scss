@@ -1,0 +1,30 @@
+.carousel {
+    width: 100%;
+    overflow-x: scroll;
+    padding: 80px 0px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+*::-webkit-scrollbar {
+    width: 10px;
+    height: 8px;
+    background: transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+    background: rgb(40, 148, 219);
+    border-radius: 10px;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+    background: white;
+}
+
+.carousel__container {
+    white-space: nowrap;
+    margin: 40px 70px;
+    padding-bottom: 10px;
+}
