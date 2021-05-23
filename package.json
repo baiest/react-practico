@@ -1,0 +1,19 @@
+{
+  "name": "react-practico",
+  "version": "1.0.0",
+  "description": "Proyecto practico de platzi sobre react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baiest/react-practico.git"
+  },
+  "author": "baiest",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baiest/react-practico/issues"
+  },
+  "homepage": "https://github.com/baiest/react-practico#readme"
+}
